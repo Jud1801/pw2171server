@@ -20,7 +20,7 @@
 		if(mysql_num_rows($resultado)>0){
 			print("<a href='alta.php'>Alta</a> <br>");
 			print("<a href='baja.php'>Baja</a> <br>");
-			print("<a href='cambio.php'>Cambio</a> <br>");
+			print("<a href='elijeUsuario.php'>Cambio</a> <br>");
 			print("<a href='consultas.php'>Consulta</a> <br>");
 			//print("Bienvenido ".$usuario." :3");
 		} 
